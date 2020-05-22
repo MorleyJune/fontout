@@ -1,0 +1,2 @@
+# fontout
+exaファイルからfontを抜き出すpythonスクリプト
