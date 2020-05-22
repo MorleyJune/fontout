@@ -23,4 +23,4 @@ for exaFile in exaList:
             csv.write(writeStr)
         else:
             csv.write(writeStr+'\n')
-f.close()
+.close()
