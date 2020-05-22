@@ -1,2 +1,2 @@
 # fontout
-exaファイルからfontを抜き出し、csvとして記録するpythonスクリプト
+exa ファイルから font を抜き出し、exaファイル名とフォント名を csv として記録する python スクリプト
