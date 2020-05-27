@@ -1,6 +1,6 @@
 # fontout
 exa ファイルから font を抜き出し、exaファイル名とフォント名を csv として記録する python スクリプト  
-python 実行環境が無い人で Windows な人のための .exe 付き  
+python 実行環境が無い人で Windows な人のための .cs と .exe 付き  
 for [@Rnd8136](https://twitter.com/RNd8136)  
 このソフトは紛れもなく彼のためのソフトであり, 動画関係知識・技術の推進のための一助となるソフトなのである ( 偉大 ) .
 ## 用法  
