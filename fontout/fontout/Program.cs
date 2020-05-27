@@ -56,10 +56,6 @@ namespace fontout
                 {
                     Console.WriteLine(files[i] + " " + lines[i]);
                     writer.WriteLine(files[i] + "," + lines[i]);
-                    //if(i != files.Length -1 )
-                    //    writer.WriteLine(files[i] + "," + lines[i] + "\n" );
-                    //else
-                    //    writer.Write(files[i] + "," + lines[i] );
                 }
                 writer.Close();
                 Console.WriteLine("書き込みが終わりました。\n何かキーを押して終了");
