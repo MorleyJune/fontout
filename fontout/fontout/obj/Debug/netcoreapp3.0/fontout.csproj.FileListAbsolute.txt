@@ -1,0 +1,11 @@
+C:\Users\JunMorishita\source\repos\fontout\fontout\bin\Debug\netcoreapp3.0\fontout.exe
+C:\Users\JunMorishita\source\repos\fontout\fontout\bin\Debug\netcoreapp3.0\fontout.deps.json
+C:\Users\JunMorishita\source\repos\fontout\fontout\bin\Debug\netcoreapp3.0\fontout.runtimeconfig.json
+C:\Users\JunMorishita\source\repos\fontout\fontout\bin\Debug\netcoreapp3.0\fontout.runtimeconfig.dev.json
+C:\Users\JunMorishita\source\repos\fontout\fontout\bin\Debug\netcoreapp3.0\fontout.dll
+C:\Users\JunMorishita\source\repos\fontout\fontout\bin\Debug\netcoreapp3.0\fontout.pdb
+C:\Users\JunMorishita\source\repos\fontout\fontout\obj\Debug\netcoreapp3.0\fontout.csprojAssemblyReference.cache
+C:\Users\JunMorishita\source\repos\fontout\fontout\obj\Debug\netcoreapp3.0\fontout.AssemblyInfoInputs.cache
+C:\Users\JunMorishita\source\repos\fontout\fontout\obj\Debug\netcoreapp3.0\fontout.AssemblyInfo.cs
+C:\Users\JunMorishita\source\repos\fontout\fontout\obj\Debug\netcoreapp3.0\fontout.dll
+C:\Users\JunMorishita\source\repos\fontout\fontout\obj\Debug\netcoreapp3.0\fontout.pdb
